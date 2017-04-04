@@ -26,7 +26,6 @@ export class AppComponent {
           this.user_displayName = auth.google.displayName;
           this.user_email = auth.google.email;
           console.log("Logged in");
-          console.log(auth);
           this.router.navigate(['']);
         }
       }

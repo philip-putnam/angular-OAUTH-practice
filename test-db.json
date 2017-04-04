@@ -1,0 +1,12 @@
+{"users":
+  [
+    {
+      "username":"dasd",
+      "adminLevel":5,
+      "uid":"dasdasd52435rdfasdf",
+      "imgurl":"pic.com",
+      "email": "test@test.com",
+      "comments":["commmentId","secondcommentid"]
+    }
+  ]
+}
